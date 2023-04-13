@@ -3,7 +3,7 @@
 This is a todo list App designed for Worshop.
 
 NOTE: Rename the gitignore file name as .gitignore after you clone the repo to you local system.
-
+Myself Mukund
 ## Requirements
 
 ```
